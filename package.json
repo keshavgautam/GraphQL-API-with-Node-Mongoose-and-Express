@@ -1,0 +1,23 @@
+{
+  "name": "graphql-api-with-node-mongoose-and-express",
+  "version": "1.0.0",
+  "description": "GraphQL is a technology that helps developers across the board to build more robust software more quickly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavgautam/GraphQL-API-with-Node-Mongoose-and-Express.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Mongoose"
+  ],
+  "author": "keshav gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavgautam/GraphQL-API-with-Node-Mongoose-and-Express/issues"
+  },
+  "homepage": "https://github.com/keshavgautam/GraphQL-API-with-Node-Mongoose-and-Express#readme"
+}
